@@ -1,0 +1,5 @@
+[1, "START"]
+[1, "UPDATE", "recoverytest15_relation", "10", "A", "10", "2"]
+[1, "COMMIT"]
+[-1, "CHECKPOINT", []]
+[2, "START"]
